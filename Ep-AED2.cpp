@@ -1,5 +1,6 @@
-// COLOQUE OS NOMES DOS RESPONS¡VEIS AQUI: Gustavo Pompermayer Fulanetti Silva E
-// Jo„o Gabriel de Senna Lamolha
+// COLOQUE OS NOMES DOS RESPONS√ÅVEIS AQUI:
+//Gustavo Pompermayer Fulanetti Silva
+// Jo√£o Gabriel de Senna Lamolha
 
 #include <malloc.h>
 #include <stdio.h>
@@ -7,12 +8,6 @@
 
 // INFORME O NRO DO GRUPO CONFORME PLANILHA DIVULGADA
 int grupo() { return 23; }
-
-// ESCREVA O NROUSP AQUI
-int nroUSP1() { return 14760280; }
-
-// E O SEGUNDO NROUSP AQUI, SE HOUVER
-int nroUSP2() { return 14777879; }
 
 // elemento da lista de resposta - NAO ALTERE ESTA DEFINICAO
 typedef struct estr {
